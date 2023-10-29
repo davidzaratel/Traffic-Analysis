@@ -1,0 +1,15 @@
+David Zárate López - A01329785
+Relicé la clase Registro, para poder almacenar las redes con su numero de accesos y 
+conexiones con IPs únicas. De igual manera, colaboré con la realización de la función 
+de búsqueda de redes, así como el ordenamiento de las IPs únicas.
+Por otro lado, contribuí con la conversion de IPs a enteros y viceversa. 
+
+Karen Rugerio Armenta - A01733228
+En esta actividad me hice responsable de la función de insertar las IPs en la tabla Hash y 
+la insersión en el vector cuando las redes se duplicaban. Así mismo, coolaboré en la elaboración 
+de la función de búsqueda de las IPs dentro de la tabla.
+
+Sahid Emmanuel Rosas Maas - A01734211
+Me encargué de la realización de la función hash para esta actividad.
+También colaboré con la creación de una función para facilitar la conversión de elementos de ips
+a numeros enteros, y el algoritmo de ordenamiento para las ips en el vector. 
